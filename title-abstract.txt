@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Improving Performance of Vision Encoding Large Language Models with Contextual Prompts
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Recent advancements in AI have led to the ability for large language models to understand data from different modalities. In this paper, we explain our methods to fine-tune LLaVA, an open-source Large Language and Visual Assistant similar to GPT-4, to read lung radiographs and generate a report in a given radiologist’s style.
